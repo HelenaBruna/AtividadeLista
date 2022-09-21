@@ -1,0 +1,16 @@
+C:\Users\Dougl\OneDrive\Documentos\Estudo\Projeto Bruna\Atividade lista\AtividadeLista\AtividadeLista\obj\Debug\net5.0\AtividadeLista.csproj.AssemblyReference.cache
+C:\Users\Dougl\OneDrive\Documentos\Estudo\Projeto Bruna\Atividade lista\AtividadeLista\AtividadeLista\obj\Debug\net5.0\AtividadeLista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dougl\OneDrive\Documentos\Estudo\Projeto Bruna\Atividade lista\AtividadeLista\AtividadeLista\obj\Debug\net5.0\AtividadeLista.AssemblyInfoInputs.cache
+C:\Users\Dougl\OneDrive\Documentos\Estudo\Projeto Bruna\Atividade lista\AtividadeLista\AtividadeLista\obj\Debug\net5.0\AtividadeLista.AssemblyInfo.cs
+C:\Users\Dougl\OneDrive\Documentos\Estudo\Projeto Bruna\Atividade lista\AtividadeLista\AtividadeLista\obj\Debug\net5.0\AtividadeLista.csproj.CoreCompileInputs.cache
+C:\Users\Dougl\OneDrive\Documentos\Estudo\Projeto Bruna\Atividade lista\AtividadeLista\AtividadeLista\bin\Debug\net5.0\AtividadeLista.exe
+C:\Users\Dougl\OneDrive\Documentos\Estudo\Projeto Bruna\Atividade lista\AtividadeLista\AtividadeLista\bin\Debug\net5.0\AtividadeLista.deps.json
+C:\Users\Dougl\OneDrive\Documentos\Estudo\Projeto Bruna\Atividade lista\AtividadeLista\AtividadeLista\bin\Debug\net5.0\AtividadeLista.runtimeconfig.json
+C:\Users\Dougl\OneDrive\Documentos\Estudo\Projeto Bruna\Atividade lista\AtividadeLista\AtividadeLista\bin\Debug\net5.0\AtividadeLista.runtimeconfig.dev.json
+C:\Users\Dougl\OneDrive\Documentos\Estudo\Projeto Bruna\Atividade lista\AtividadeLista\AtividadeLista\bin\Debug\net5.0\AtividadeLista.dll
+C:\Users\Dougl\OneDrive\Documentos\Estudo\Projeto Bruna\Atividade lista\AtividadeLista\AtividadeLista\bin\Debug\net5.0\ref\AtividadeLista.dll
+C:\Users\Dougl\OneDrive\Documentos\Estudo\Projeto Bruna\Atividade lista\AtividadeLista\AtividadeLista\bin\Debug\net5.0\AtividadeLista.pdb
+C:\Users\Dougl\OneDrive\Documentos\Estudo\Projeto Bruna\Atividade lista\AtividadeLista\AtividadeLista\obj\Debug\net5.0\AtividadeLista.dll
+C:\Users\Dougl\OneDrive\Documentos\Estudo\Projeto Bruna\Atividade lista\AtividadeLista\AtividadeLista\obj\Debug\net5.0\ref\AtividadeLista.dll
+C:\Users\Dougl\OneDrive\Documentos\Estudo\Projeto Bruna\Atividade lista\AtividadeLista\AtividadeLista\obj\Debug\net5.0\AtividadeLista.pdb
+C:\Users\Dougl\OneDrive\Documentos\Estudo\Projeto Bruna\Atividade lista\AtividadeLista\AtividadeLista\obj\Debug\net5.0\AtividadeLista.genruntimeconfig.cache
